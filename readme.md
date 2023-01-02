@@ -20,7 +20,7 @@ An administrator page is available for account and vehicle inventory management.
 
 ![Admin](readme_img/admin.png)
 
-Account information can be changed from the account managment page.
+Account information can be changed from the account management page.
 
 ![Account Management](readme_img/account_management.png)
 
